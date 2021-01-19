@@ -1,5 +1,8 @@
 # Gaze-and-Pose-Detection
+
 Please refer to https://hub.docker.com/repository/docker/uersoy/combined_gaze_pose_image to pull the docker image.
+
+This image combines Nvidia pose and gaze demo into a single image with both running simultaneously using one camera.
 
 This image works seamlessly for Nvidia Jetson Xavier Nx (I haven't yet treid with other Jetson devices).
 
